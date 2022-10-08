@@ -1,2 +1,2 @@
-# Praktikum_web2_new
-Berisi code hasil praktikum html
+# Praktikum1
+Berisi code hasil praktikum html CV,CHECKOUT, dan CART
